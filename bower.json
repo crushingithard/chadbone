@@ -1,0 +1,9 @@
+{
+  "name"          : "chadbone",
+  "version"       : "1.1.2",
+  "main"          : "chadbone.js",
+  "dependencies"  : {
+    "underscore"  : ">=1.5.0"
+  },
+  "ignore"        : ["chadbone-min.js", "docs", "examples", "test", "*.yml", "*.map", "*.html", "*.ico"]
+}

@@ -1,0 +1,13 @@
+{
+  "name"          : "chadbone",
+  "version"       : "1.1.2",
+  "description"   : "Give your JS App some Chadbone with Models, Views, Collections, and Events.",
+  "keywords"      : ["model", "view", "controller", "router", "server", "client", "browser"],
+  "repo"          : "crushingithard/chadbone",
+  "dependencies"  : {
+    "jashkenas/underscore"  : "*"
+  },
+  "main"          : "chadbone.js",
+  "scripts"       : ["chadbone.js"],
+  "license"       : "MIT"
+}
